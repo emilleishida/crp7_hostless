@@ -1,0 +1,182 @@
+idx	objectID	hostless	comment
+0      ZTF23aaxdfya	False	"big galaxy closeby"
+1      ZTF22aajhtpy	False	"big galaxy closeby"
+2      ZTF22aakkmri	True	
+3      ZTF23aaawbsy	True
+4      ZTF22aazmooy	False	"in big galaxy"
+5      ZTF23aapqkvw	False	"in big galaxy"
+6      ZTF18abtvstb True	
+7      ZTF22aaftcmp	True	
+8      ZTF22abyivoq	False	"in big galaxy"
+9      ZTF23aacdnjz	True
+10     ZTF18abotdef	True
+11     ZTF23abjqxbe	True
+12     ZTF18aatpnrf	False	"in small galaxy"
+13     ZTF22aaombjf	True
+14     ZTF22abtltcw	False	"in big galaxy"
+15     ZTF18accngfb	True
+16     ZTF20aayvmyh	True
+17     ZTF23abpqklj	True
+18     ZTF23abochfb	True
+19     ZTF18adovhai	True
+20     ZTF23aaqfdby	True
+21     ZTF22abzakdd	False	"in small galaxy"
+22     ZTF22aaljlzq True
+23     ZTF23aagaiju	True	
+24     ZTF23aasbvab	False	"in big galaxy"
+25     ZTF22aauiabm	False	"crowded field"
+26     ZTF22abjafpr	True
+27     ZTF23aadruma	True
+28     ZTF23aamsekn	True
+29     ZTF22abzvyku	True
+30     ZTF23abvbwys	True
+31     ZTF22abmxtqr	True
+32     ZTF22abamxcl	True
+33     ZTF23aaelzdb	True
+34     ZTF18aaxtcdm	True
+35     ZTF22aaizxqg	True
+36     ZTF23aazrtdy	True
+37     ZTF23abdynfn	True
+38     ZTF18aaxljll	False	"big galaxy closeby"
+39     ZTF23aamqonh	False	"big galaxy closeby"
+40     ZTF18abvgjyl	False	"very close to a saturated star"
+41     ZTF23aanukvi	True
+42     ZTF18abrzcbp	True	
+43     ZTF23aafzquw	True
+44     ZTF18acdqmxr	False	"very close to a small galaxy"
+45     ZTF23aaznifc	True
+46     ZTF18abskzjm	True
+47     ZTF22aboixdd	False	"very close to a small galaxy"
+48     ZTF23aadefex	False 	"in big galaxy"
+49     ZTF23abryfga	True
+50     ZTF18aapgrxo	True
+51     ZTF23aawcygl	False	"close to a small galaxy"
+52     ZTF22aasaapb	True
+53     ZTF18abskoyh	False	"very close to small galaxy"
+54     ZTF22aadetzs	True
+55     ZTF23aaaairl	False	"in big galaxy"
+56     ZTF22aakdbia	False	"in big galaxy"
+57     ZTF23aawhcjb	True
+58     ZTF22aahaasc	True
+59     ZTF23aaajtqn	False
+60     ZTF18admasii	False	"crowded field"
+61     ZTF23aakmewi	True
+62     ZTF23aabtgej	False	"big galaxy closeby"
+63     ZTF23abaslfm	True
+64     ZTF22abnwvyc	False	"close to a small galaxy"
+65     ZTF23abijopy	True
+66     ZTF22abyznto	True	"close to a big galaxy"
+67     ZTF22aagzbux	False	"in small galaxy"
+68     ZTF22aapjqpn	True
+69     ZTF22aahhubz	True
+70     ZTF22aaaihet	True
+71     ZTF22abdibiz	False	"close to a small galaxy"
+72     ZTF23aaiyexs	False	"in big galaxy"
+73     ZTF23absflyh	True
+74     ZTF23aaemgto	True
+75     ZTF23aaftouh	True
+76     ZTF23aamfmqm	True
+77     ZTF18aaiscil	True
+78     ZTF22abbausm	False	"in small galaxy"
+79     ZTF22aahecwj	True
+80     ZTF22aaobrbd	True
+81     ZTF22abzbyyw	True
+82     ZTF18aczdmti	False	"in big galaxy"
+83     ZTF22aahebcu	False	"in small galaxy"
+84     ZTF18aahfqbc	False	"in big galaxy"
+85     ZTF22abvaggn	True
+86     ZTF22abyuoan	False	"galaxy closeby"
+87     ZTF22aapuake	True
+88     ZTF22ablhldn	True	"crowded field"
+89     ZTF22aasoali	True	"crowded field"
+90     ZTF23abqygjv	True
+91     ZTF22aadeuwu	True
+92     ZTF23absbyol	False	"galaxy closeby"
+93     ZTF22aboawxv	False	"in big galaxy"
+94     ZTF23aamxeoe	True
+95     ZTF23aaznlgb	True
+96     ZTF22aaausrb	True
+97     ZTF22aalizik	True
+98     ZTF22aanrqje	False	"in big galaxy"
+99     ZTF22abepfmn	True
+100    ZTF22aaaiykj	True
+101    ZTF22abtotgu	True
+102    ZTF23aagdbbv	True
+103    ZTF23aaxyawz	True
+104    ZTF22aaagvyp	True
+105    ZTF18aabqgnb	False	"in small galaxy"
+106    ZTF18acydvjn	False	"big galaxy closeby"
+107    ZTF23aboemfi	True
+108    ZTF23abhokcy	False	"in big galaxy"
+109    ZTF19abszdld	False	"in small galaxy"
+110    ZTF22aadlmgg	True
+111    ZTF23aagunkc	True	"saturated star closeby"
+112    ZTF18acepwhb	True
+113    ZTF22abnqzle	True
+114    ZTF18aajwbhh	True
+115    ZTF22absmrdt	True	"galaxy closeby"
+116    ZTF23aajlkxc	False	"in big galaxy"
+117    ZTF18acenqto	True
+118    ZTF22aagbxrb	True
+119    ZTF23aadvjqb	False	"in big galaxy"
+120    ZTF18abslpjy	True
+121    ZTF22aaafohf	True
+122    ZTF18abfylqx	False	"in small galaxy"
+123    ZTF22aabwvot	True
+124    ZTF22abfwchw	True
+125    ZTF22abvngdr	True
+126    ZTF23aaazegi	True
+127    ZTF18adnjpdf	False	"in big galaxy"
+128    ZTF23aajenxf	True
+129    ZTF22aaafavg	True	"in tiny galaxy?"
+130    ZTF18aaznlwl	True	"in tiny galaxy?"
+131    ZTF18aaajfsd	False	"in small galaxy"
+132    ZTF22aboaiim	False	"in small galaxy"
+133    ZTF22aaolwsd	False	"in big galaxy"
+134    ZTF18abtgyme	False	"in big galaxy"
+135    ZTF22abjrpmv	True
+136    ZTF23abcufxh	True
+137    ZTF22aaogwbd	True
+138    ZTF23aanuvih	True
+139    ZTF18aaacdnd	True
+140    ZTF23aajhtuu	False	"in small galaxy"
+141    ZTF22abyhqkt	True
+142    ZTF23aboebgh	True
+143    ZTF18abszecm	True
+144    ZTF22abynkpz	True
+145    ZTF22aabtyli	False	"in small galaxy"
+146    ZTF23abaderr	False	"small galaxy closeby"
+147    ZTF22abmpqbq	True
+148    ZTF23abcqzvm	True
+149    ZTF23abgvtxr	True
+150    ZTF18absoghh	False	"in small galaxy"
+151    ZTF19abkaxlf	False	"small galaxy very closeby"
+152    ZTF22abahblc	False	"in small galaxy and crowded field"
+153    ZTF23aaejvzv	False	"in small galaxy"
+154    ZTF18aczddnw	False	"in small galaxy"
+155    ZTF18adoeywv	False	"in tiny galaxy'
+156    ZTF22abfyvhf	True
+157    ZTF23aaqjuux	True
+158    ZTF23aafggjj	False	"small galaxy closeby"
+159    ZTF22aafumyr	True
+160    ZTF22aahgxdt	True
+161    ZTF22aakanzk	True
+162    ZTF22aalmrqp	True
+163    ZTF18abjkryl	False	"in big galaxy"
+164    ZTF18adkgxye	False	"in tiny galaxy"
+165    ZTF23aaawcvx	False	"in gas post-merger?"
+166    ZTF22ablcybb	True
+167    ZTF23abavpyk	True	"in very tiny galaxy?"
+168    ZTF23abbsfxp	True
+169    ZTF21abiwpjm	True	"in very tiny galaxy?"
+170    ZTF23ablspnz	True
+171    ZTF23aafmjbx	True
+172    ZTF22abtsypf	False	"in tiny galaxy"
+173    ZTF18adnfkzf	True
+174    ZTF22aadqkgp	False	"in tiny galaxy"
+175    ZTF23aadbswn	True
+176    ZTF23aapvrkk	True	"in very tiny galaxy?"
+177    ZTF23aajrmfh	False	"in big galaxy"
+178    ZTF22aaahull	True	"in vey tiny galaxy?"
+179    ZTF22aaszlph	True
+180    ZTF22abfxmvf	True	"in vey tiny galaxy?"
